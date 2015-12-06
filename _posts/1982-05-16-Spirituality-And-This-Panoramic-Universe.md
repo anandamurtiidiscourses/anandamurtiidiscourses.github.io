@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 pirituality and This Panoramic Universe
 16 May 1982 DMC, Calcutta
