@@ -1,11 +1,11 @@
-title:        Anandamurtii         Discursos 
-description: Anandamurtii Discursos     
-disqus_shortname: anandamurtiidiscursos
+title:        Anandamurtii         Discourses 
+description: Anandamurtii Discourses     
+disqus_shortname: anandamurtiidiscourses
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://anandamurtiidiscursos.github.io
+url: http://anandamurtiidiscourses.github.io
 
 # Owner/author information
 owner:            
@@ -18,7 +18,7 @@ owner:
  
 
   facebook: 
-  email: anandamurtiidiscursos@gmail.com
+  email: anandamurtiidiscourses@gmail.com
   
   
 
@@ -27,7 +27,7 @@ background:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
-google_verify: google5eb867d47a956483 
+google_verify:  
 
 bing_verify:         
 
