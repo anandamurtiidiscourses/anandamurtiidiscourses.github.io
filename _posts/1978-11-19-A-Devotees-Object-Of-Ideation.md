@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 Layout: post
 ---
+
 
 A Devotee's Object of Ideation
 19 November 1978 DMC, New Delhi
