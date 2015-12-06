@@ -1,8 +1,9 @@
 ---
-published: true
+published: false
 Layout: post
 layout: post
 ---
+
 
 
 Sevá
@@ -72,4 +73,3 @@ Así vemos que estas tres cosas son muy preciadas en la vida humana. Y que es lo
 (2) Bhagavad Giitá.
 
 - Anandamurtii -
-
