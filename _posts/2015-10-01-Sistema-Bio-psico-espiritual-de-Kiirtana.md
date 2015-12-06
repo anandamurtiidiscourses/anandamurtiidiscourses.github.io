@@ -1,9 +1,10 @@
 ---
-published: true
+published: false
 Layout: post
 layout: post
 description: anandamurtii
 ---
+
 
 Una acción puede ser tratada como “finalizada” si esta satisface las siguientes condiciones: (1) si esta ha sido cumplida completamente, y (2) el resultado conforme esta en las manos.[Esto es “finalidad”, o “completud”.]
 
@@ -25,4 +26,3 @@ El siddha mantra completo deberá ser pronunciado completamente en cada frase de
 (2) Cuando Bábá náma kevalam es cantado en una melodía, una vocal extra es adherida a kevalam – kevalama. 
 
 - Anandamurtii -
-
