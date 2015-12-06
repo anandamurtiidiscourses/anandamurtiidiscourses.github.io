@@ -1,8 +1,8 @@
 ---
 published: false
+layout: post
 ---
 
-Ananda Nagar Is the Beacon Light for the Universe
 
 We have come again to Anandanagar after a long time. Anandanagar is the nucleus of this universe. It is not merely the physical Anandanagar, it is also the Anandanagar of our inner heart. We will have to build it in all possible ways, we will have to take all steps for its rapid development so that it can show light to the entire universe.
 
