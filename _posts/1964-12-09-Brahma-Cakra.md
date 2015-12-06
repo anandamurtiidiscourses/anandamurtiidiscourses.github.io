@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 Brahma Cakra
 9 December 1964, Salem
