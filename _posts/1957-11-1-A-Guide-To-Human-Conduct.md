@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 INTRODUCTION
 Morality is the foundation of Sádhaná (spiritual practice). It must, however, be remembered that morality or good conduct is not the culminating point of the spiritual march. As a moralist one may set an ideal for other moralists, but to do this is not something worth mentioning for a Sádhaka (spiritual aspirant). Sádhaná, in its very start, requires mental equilibrium. This sort of mental harmony may also be termed as morality.
