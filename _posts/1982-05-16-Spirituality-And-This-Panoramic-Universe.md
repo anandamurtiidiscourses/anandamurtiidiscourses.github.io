@@ -4,9 +4,6 @@ layout: post
 ---
 
 
-pirituality and This Panoramic Universe
-16 May 1982 DMC, Calcutta
-
 The subject of today’s discourse is “Spirituality and This Panoramic Universe.” This panoramic universe is something circum-rotarian, rotating around its own nucleus, and the nucleus, the hub of our universe is also moving, but without change in space. When there is no change in space, then how can there be movement? There can be movement without change in space if everything lies within.
 
 And the nucleus has three expressions, that is, the nucleus controls trifarious movements of the world, trifarious manifestations or emanations of the world. First, the physical world, the quinquelemental world is controlled by the universal hub. When this hub controls the quinquelemental entities of the universe, then this hub has something to do with the physicalities, and we may say it is the physical hub.
