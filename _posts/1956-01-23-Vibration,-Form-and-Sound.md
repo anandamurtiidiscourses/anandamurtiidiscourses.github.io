@@ -1,6 +1,6 @@
 ---
 published: true
-layout: null
+layout: post
 ---
 
 
