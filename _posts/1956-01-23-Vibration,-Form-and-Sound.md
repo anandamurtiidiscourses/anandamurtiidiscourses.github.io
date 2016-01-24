@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 Today’s discussion will be on “Vibration, Form and Colour”.
 Vibration
