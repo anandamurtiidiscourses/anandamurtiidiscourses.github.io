@@ -1,7 +1,8 @@
 ---
 published: true
-layout: post
+layout: null
 ---
+
 
 
 Today’s discussion will be on “Vibration, Form and Colour”.
